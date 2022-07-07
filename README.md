@@ -2,6 +2,22 @@
 
 This is a non-official implementation of SketchYourOwnGAN https://arxiv.org/abs/2108.02774. To get the full implementation please go to the [original implementation](https://github.com/peterwang512/GANSketching) 
 
+## Pruebas
+
+<div>
+<img src="https://i.imgur.com/s2o5xk4.jpg" alt="drawing" width="10%"/>
+<img src="https://media.giphy.com/media/F0cyDojPJSO1Fua4Ik/giphy.gif" alt="drawing" width="70%"/>
+</div>
+<div>
+<img src="https://i.imgur.com/9NP3BZ5.jpg" alt="drawing" width="10%"/>
+<img src="https://media.giphy.com/media/Vz39P51bdAe3hffp7Z/giphy.gif" alt="drawing" width="70%"/>
+</div>
+<div>
+<img src="https://i.imgur.com/0qL3Y59.jpg" alt="drawing" width="10%"/>
+<img src="https://media.giphy.com/media/7RKnq5ACMkyoILjFqI/giphy.gif" alt="drawing" width="70%"/>
+</div>
+
+
 ## References
 ```
 @inproceedings{wang2021sketch,

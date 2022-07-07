@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.pkl
+*.pth
+__pycache__
+bocetos
+experiments
+generated
+imagenes
+node_modules

@@ -16,6 +16,10 @@ This is a non-official implementation of SketchYourOwnGAN https://arxiv.org/abs/
 <img src="https://i.imgur.com/s2o5xk4.jpg" alt="drawing" width="15%"/>
 <img src="https://media.giphy.com/media/7RKnq5ACMkyoILjFqI/giphy.gif" alt="drawing" width="70%"/>
 </div>
+<div>
+<img src="http://imgfz.com/i/CzUpvVT.jpeg" alt="drawing" width="15%"/>
+<img src="https://media2.giphy.com/media/OWDzxEcECVCgF4ax08/giphy.gif?cid=790b761133e535e8eddbf8a2d046322b31befea908434c91&rid=giphy.gif&ct=g" alt="drawing" width="70%"/>
+</div>
 
 
 ## References

@@ -18,7 +18,7 @@ This is a non-official implementation of SketchYourOwnGAN https://arxiv.org/abs/
 </div>
 <div>
 <img src="http://imgfz.com/i/CzUpvVT.jpeg" alt="drawing" width="15%"/>
-<img src="https://media1.giphy.com/media/OWDzxEcECVCgF4ax08/giphy.gif" alt="drawing" width="70%"/>
+<img src="https://media.giphy.com/media/OWDzxEcECVCgF4ax08/giphy-downsized-large.gif" alt="drawing" width="70%"/>
 </div>
 
 

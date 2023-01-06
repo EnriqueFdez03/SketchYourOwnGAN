@@ -2,6 +2,8 @@
 
 This is a non-official implementation of SketchYourOwnGAN https://arxiv.org/abs/2108.02774. To get the full implementation please go to the [original implementation](https://github.com/peterwang512/GANSketching) 
 
+Thesis: https://drive.google.com/file/d/1INqCuWiwgw5aPJMk16fptzBqiNit0dSz/view
+
 ## Pruebas
 
 <div>
